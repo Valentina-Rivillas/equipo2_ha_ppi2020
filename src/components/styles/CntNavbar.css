@@ -1,0 +1,12 @@
+.bg-primary {
+  background: #06c0c4 !important;
+  color: #befbff !important;
+}
+.navbar-brand,
+.nav-link {
+  color: rgb(0, 0, 0) !important;
+}
+
+body {
+  background-color: #befbff;
+}
